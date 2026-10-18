@@ -240,4 +240,4 @@ This repository serves as the official landing page for Knight Online. The softw
 **Get the most recent version of Knight Online today!**
 
 ---
-**Last updated:** 2026-10-18 02:08:26 UTC
+**Last updated:** 2026-10-18 07:32:51 UTC
